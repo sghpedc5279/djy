@@ -1,5 +1,7 @@
 # 丁家友
 
+个人主页：[https://sghpedc5279.github.io/djy/](https://sghpedc5279.github.io/djy/)
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=26&pause=1000&color=0F172A&center=true&vCenter=true&width=800&lines=Researcher+of+Digital+Humanities;Exploring+AI+for+Archives+and+History;Building+Knowledge+Systems+for+Humanities" alt="Academic banner" />
 </p>
@@ -79,5 +81,4 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=djy.djy" alt="Visitor Badge" />
 </p>
-
 
